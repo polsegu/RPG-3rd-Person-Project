@@ -1,4 +1,4 @@
-# RPG-3rd-Person-Project
+# RPG 3rd Person Project
 
 ![IMG_20170720_144128_466](https://i.postimg.cc/ZKsTgW5x/ue-rpg-3rd-Person.jpg)
 > [!NOTE]
